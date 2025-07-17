@@ -1,5 +1,13 @@
 # splitNtrans
-script made to split the pages of a scan, then extract and translate the text
+Script made to split the pages of a scan, then extract and translate the text.
+
+---
+
+**Example Use Case:**
+This workflow was used for a Visual Investigation by Karina Yazylyan:
+[Aesthetics of technical information (visual research)](https://www.behance.net/gallery/73516343/Aesthetics-of-technical-information-(visual-research))
+
+---
 # SplitNTrans
 
 This project provides a workflow for processing scanned book images:
